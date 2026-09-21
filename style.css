@@ -43,12 +43,12 @@ body{
 }
 
 .hero h2{
-    font-size: 70px;
+    font-size: 100px;
     line-height: 1;
 }
 
 .hero p{
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
