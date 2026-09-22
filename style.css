@@ -45,7 +45,7 @@ body {
     align-items: center;
 
     padding-top: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
     padding-left: 15%;
 }
 
@@ -58,7 +58,8 @@ body {
 }
 
 .hero-image img {
-    width: 100%;
+    width: 90%;
+    padding-left: 10%;
 }
 
 .hero h2 {
@@ -83,4 +84,17 @@ body {
     border-radius: 25px;
 
     font-size: 25px;
+}
+.footer{
+    border-top: solid black 1px;
+    padding: 25px 15%; 
+    display: flex;
+    gap: 25px;
+    padding-left: 30%;
+
+}
+
+.footer a{
+    color: black;
+    font-size: 14px;
 }
