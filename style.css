@@ -98,3 +98,41 @@ body {
     color: black;
     font-size: 14px;
 }
+
+.story-page{
+    background-color: black;
+    color: white;
+}
+
+.story-navbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-bottom: 1px solid white;
+    height: 80px;
+}
+
+.story-navigation{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.story-navigation a{
+    color: white;
+    text-decoration: none;
+}
+
+.sign-up{
+    background-color: white;
+    color: black !important;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.story-navbar h1 {
+    font-size: 32px;
+}
