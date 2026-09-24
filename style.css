@@ -136,3 +136,19 @@ body {
 .story-navbar h1 {
     font-size: 32px;
 }
+
+.story-content {
+    padding-top: 7%;
+    height: 2200px;
+    padding-left: 2%;
+}
+
+.story-content h2{
+    font-size: 80px;
+}
+
+.story-content p{
+    font-size: 25px;
+    width: 40%;
+    padding-top: 40px;
+}
