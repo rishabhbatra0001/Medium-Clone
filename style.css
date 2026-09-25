@@ -186,3 +186,49 @@ body {
     color: black;
     text-decoration: underline;
 }
+
+.Frontnavbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Frontnavbar nav{
+    display: flex;
+    gap: 40px;
+}
+
+.Frontnavbar input{
+    border-radius: 25px;
+    width: 250px;
+    padding-left: 20px;
+}
+
+.Frontnavbar .app{
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding : 10px 20px;
+}
+
+.Frontnavbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.Frontnavbar .navigation{
+    font-size: 20px;
+}
+
+.Frontnavbar .mail{
+    display: flex;
+    background-color: green;
+    border-radius: 25px;
+    padding: 10px 15px;
+    color: white;
+}
