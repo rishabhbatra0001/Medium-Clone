@@ -206,6 +206,8 @@ body {
     border-radius: 25px;
     width: 250px;
     padding-left: 20px;
+    border: 1px solid rgba(0, 0 , 0 , 0.2);
+    background-color: aliceblue;
 }
 
 .Frontnavbar .app{
@@ -222,7 +224,7 @@ body {
 }
 
 .Frontnavbar .navigation{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .Frontnavbar .mail{
@@ -231,4 +233,8 @@ body {
     border-radius: 25px;
     padding: 10px 15px;
     color: white;
+}
+
+.Frontnavbar input:hover{
+    
 }
